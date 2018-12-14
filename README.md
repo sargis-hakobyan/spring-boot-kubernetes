@@ -19,5 +19,5 @@ Running Spring Boot two Applications With Minikube
 
 
 Referencees: 
-https://www.baeldung.com/spring-boot-minikube
-https://gorillalogic.com/blog/build-and-deploy-a-spring-boot-app-on-kubernetes-minikube/
+1. https://www.baeldung.com/spring-boot-minikube
+2. https://gorillalogic.com/blog/build-and-deploy-a-spring-boot-app-on-kubernetes-minikube/
