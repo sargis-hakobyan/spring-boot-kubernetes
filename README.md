@@ -17,3 +17,7 @@ Running Spring Boot two Applications With Minikube
 13. After deploying front end and backend apps run command `minikube service demo-frontend`. Command will open browser. Goto to opened tab and in address bar add /greetings at the end of url. Should be something like this: `http://192.168.64.8:30001/greetings`. And the output should be `Demo Backend :)`.
 14. Type this url: `http://192.168.64.8:30001/capital/armenia` and the result should be `The capital of armenia is Yerevan`.
 
+
+Referencees: 
+https://www.baeldung.com/spring-boot-minikube
+https://gorillalogic.com/blog/build-and-deploy-a-spring-boot-app-on-kubernetes-minikube/
